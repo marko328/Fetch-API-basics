@@ -1,0 +1,30 @@
+* {
+  color: aqua;
+}
+
+body {
+  background-color: black;
+}
+
+#API {
+  height: 2rem;
+  background-color: darkviolet;
+}
+
+button {
+  height: 2rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#Users {
+  background-color: darkmagenta;
+}
+
+#Text {
+  background-color: darkgreen;
+}
+
+#Comments {
+  background-color: darkblue;
+}/*# sourceMappingURL=style.css.map */

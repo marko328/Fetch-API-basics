@@ -1,0 +1,38 @@
+$font-stack: Arial, Helvetica;
+$light-color: aqua;
+$dark-color: black;
+$box-color: darkmagenta;
+$flex-color: darkgreen;
+$low-color: darkblue;
+
+* {
+    color: $light-color;
+}
+
+body {
+    background-color: $dark-color;
+}
+
+#API {
+    height: 2rem;
+    background-color: darkviolet;
+}
+
+button {
+    height: 2rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#Users{
+    background-color: $box-color;
+}
+
+#Text {
+    background-color: $flex-color;
+}
+
+#Comments {
+    background-color: $low-color;
+}
+    
